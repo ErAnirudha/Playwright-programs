@@ -1,4 +1,4 @@
 # Playwright Programs
-> ##  Playwright basic programs
+> ##  Playwright & Type script basic programs
  **1.**
  -  []
